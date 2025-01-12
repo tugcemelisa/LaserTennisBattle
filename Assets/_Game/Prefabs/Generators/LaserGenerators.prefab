@@ -142,6 +142,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: LaserGenerator 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5445476909608560053, guid: c594633e2b009544d87db4ea888aa5d0,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6a3bada8d9b360a4196995f1d8292c47, type: 2}
+    - target: {fileID: 6380296294205583836, guid: c594633e2b009544d87db4ea888aa5d0,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a39f4f68403258d4b8a1371c4f23ead5, type: 2}
     - target: {fileID: 6395917819071521535, guid: c594633e2b009544d87db4ea888aa5d0,
         type: 3}
       propertyPath: m_LocalPosition.z
