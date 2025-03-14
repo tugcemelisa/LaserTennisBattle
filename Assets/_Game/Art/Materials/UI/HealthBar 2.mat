@@ -46,7 +46,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Radius: 0.4
-    - _RemovedSegments: 0
+    - _RemovedSegments: 12
     - _Rotation: 0
     - _SegmentCount: 12
     - _SegmentSpacing: 0.02
