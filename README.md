@@ -22,3 +22,10 @@ Video
 ↗ https://www.youtube.com/watch?v=MBOM4bJxAp8
 
 <img width="1920" height="1080" alt="melisa-tugce-image-sequence-007-1024" src="https://github.com/user-attachments/assets/8f77aa2f-3955-488e-9cf8-a8fd4b189ad9" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d570ec2-2165-42a4-a553-7df829139a0f" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/86be0150-c520-46a1-bbc2-9e1a8e606b1a" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d661abf1-0fdd-4850-af71-34a7ce46a9e4" />
+
