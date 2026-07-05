@@ -20,3 +20,5 @@ ArtStation
 
 Video
 ↗ https://www.youtube.com/watch?v=MBOM4bJxAp8
+
+<img width="1920" height="1080" alt="melisa-tugce-image-sequence-007-1024" src="https://github.com/user-attachments/assets/8f77aa2f-3955-488e-9cf8-a8fd4b189ad9" />
